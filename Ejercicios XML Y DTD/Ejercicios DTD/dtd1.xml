@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- se coloca enlace con el fichero dtd-->
+<!DOCTYPE receta  SYSTEM "dtd1.dtd">
+<receta>
+
+<!--Se definen los elementos de la receta-->
+<titulo>...</titulo>
+<ingredientes>...</ingredientes>
+<procedimiento>...</procedimiento>
+</receta>

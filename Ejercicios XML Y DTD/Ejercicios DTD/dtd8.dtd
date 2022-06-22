@@ -1,0 +1,2 @@
+<!ELEMENT aviso (titulo?, (parrafo+, grafico)*)>
+<!ELEMENT titulo (#PCDATA)

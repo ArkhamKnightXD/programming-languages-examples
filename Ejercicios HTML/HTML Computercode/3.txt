@@ -1,0 +1,2 @@
+<p>A simple math equation: 
+<var>x</var> = 3 + 2; </p>

@@ -1,0 +1,2 @@
+<!ELEMENT aviso (titulo?, (parrafo+, grafico)*)>
+<!-- Como no hay ningun elemento en aviso dejo esto vacia ya que no hay que validar ningun campo-->

@@ -1,0 +1,3 @@
+<!ELEMENT aviso (titulo?, (parrafo+, grafico)*)>
+<!-- Aqui solo debo validar el titulo-->
+<!ELEMENT titulo (#PCDATA)

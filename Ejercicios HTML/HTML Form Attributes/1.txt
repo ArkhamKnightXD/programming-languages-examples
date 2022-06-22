@@ -1,0 +1,4 @@
+<form action="/action_page.php">
+<input type="text" 
+placeholder="Your name here">
+</form>

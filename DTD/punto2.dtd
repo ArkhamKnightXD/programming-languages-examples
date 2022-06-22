@@ -1,0 +1,5 @@
+<!ELEMENT receta (titulo, ingredientes, procedimiento)>
+<!-- Aqui debo de definir un elemento por cada elemento existente en el xml de receta -->
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT ingredientes (#PCDATA)>
+<!ELEMENT procedimiento (#PCDATA)>

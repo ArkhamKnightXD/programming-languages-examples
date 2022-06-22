@@ -1,0 +1,3 @@
+<p>
+My favorite color is <del>blue</del> red.
+</p>

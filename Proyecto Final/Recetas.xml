@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recetas>
+    <receta>
+        <nombre>Aquellas Juergas Universitaria</nombre>
+        <tiempo>93</tiempo>
+        <ingredientes>
+            <ingrediente cantidad= "1" unidad="kg."> Cebolla </ingrediente>
+        </ingredientes>
+        <procedimietno>
+			<paso numero="1"> Pelar y partir las cebollas en rodajas finas</paso>
+        </procedimiento>
+</recetas>

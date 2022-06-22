@@ -1,0 +1,5 @@
+<!ELEMENT aviso (titulo?, (parrafo+, grafico?)*)>
+<!-- Aqui debo de definir un elemento por cada elemento-->
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT grafico (#PCDATA)>

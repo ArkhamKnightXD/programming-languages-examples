@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.special
+{
+color:blue
+;
+}
+</style>
+</head>
+<body>
+
+<p class="special">My paragraph</p>
+
+</body>
+</html>

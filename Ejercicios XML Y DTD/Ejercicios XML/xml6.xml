@@ -1,0 +1,41 @@
+
+<!---Ejemplo 1-->
+
+<!--- Agregar en encoding aunque si se va a utilizar el UTF-8 O UTF-16 no es necesario-->
+<!--- El atributo 1 debe ir entre comillas simples o dobles-->
+<!--- Los elementos deben cerrarse con > no con ] -->
+<!--- El elemento documento no se puede repetir -->
+<!--- Falta cerrar el elemento imagen con </imagen> -->
+
+
+<!--- Asi queda despues de las correcciones  -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<documento> 
+    <p>Mi Primer 
+        <destacar importancia="1">documento XML</destacar>
+    </p> 
+    <p>Comienza con la etiqueta </p> 
+    <p>A continuacion colocamos un elemento sin contenido</p> 
+    <imagen fichero="imagen.gif"> </imagen>
+</documento>
+
+
+<!---Ejemplo 2-->
+
+<!--- Agregar en encoding aunque si se va a utilizar el UTF-8 O UTF-16 no es necesario-->
+<!--- El valor del atributo nombre debe ir entre comillas simples o dobles y no se debe repetir-->
+<!--- Los elementos son sencible a mayúsculas y minuscula-->
+<!--- Debe cerrarse el elemento autor -->
+<!--- Los elementos deben cerrarse con > no con ] -->
+
+<!--- Asi queda despues de las correcciones  -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<libros> 
+	<libro id="quijote"> 
+		<titulo>El Quijote</titulo> 
+		<autor nombre="cervantes"> </autor>
+		<descripcion>Es el mejor libro de cervantes.</descripcion> 
+	</libro>
+</libros>

@@ -1,0 +1,3 @@
+
+<bdo dir="rtl">What a beautiful day!</bdo>
+

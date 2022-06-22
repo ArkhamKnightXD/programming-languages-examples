@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Wed Feb 22 11:01:39 BOT 2017 -->
+
+<!DOCTYPE receta SYSTEM "recetas.dtd">
+<recetas>
+	<receta> 
+		<titulo>pan</titulo>
+		<ingredientes>
+			<ingrediente>sal</ingrediente>
+			<ingrediente>aceite</ingrediente>
+			<ingrediente>harina</ingrediente>
+			<ingrediente>levadura</ingrediente>
+		</ingredientes>
+		<procedimientos>
+			<procedimiento>batidora</procedimiento>
+			<procedimiento>bolillo</procedimiento>
+		</procedimientos>
+	</receta>
+	<receta> 
+		<titulo>salami</titulo>
+		<ingredientes>
+			<ingrediente>aceite</ingrediente>
+			<ingrediente>carnes</ingrediente>
+			<ingrediente>harina</ingrediente>
+			<ingrediente>sal</ingrediente>
+		</ingredientes>
+		<procedimientos>
+			<procedimiento>bolillo</procedimiento>
+		</procedimientos>
+	</receta>
+</recetas>

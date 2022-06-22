@@ -1,0 +1,7 @@
+<!-- DTD created at Wed Feb 22 11:02:45 BOT 2017 with EditiX XML Editor (http://www.editix.com). Please insert an encoding attribute header for converting any DTD  -->
+
+<!ELEMENT receta (titulo, ingredientes, procedimiento)>
+
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT ingredientes (#PCDATA)>
+<!ELEMENT procedimiento (#PCDATA)>

@@ -1,0 +1,5 @@
+<!ELEMENT aviso (titulo?, (parrafo+, grafico)*)>
+<!-- se deben definir todos los elementos que componen la receta -->
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT grafico (#PCDATA)>

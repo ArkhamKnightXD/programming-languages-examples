@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Arboles>
+    <Especie>
+       <nombre>Acer monspessulanum</nombre>
+        <nombre_comun>Arce de Montpellier, Arce menor</nombre_comun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metro</altura>
+        <estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</estructura>
+        <color_prim>Haz verde brillante, envés verde blanquecino</color_prim>
+        <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+    </Especie>
+    <Especie>
+        <nombre>Olea europea</nombre>
+        <nombre_comun>Olivo</nombre_comun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>De 8 a 15 metros</altura>
+        <estructura>Copa irregular. Tronco principal irregular con bifurcaciones.</estructura>
+        <color_prim></color_prim>
+        <resistencia></resistencia>
+    </Especie>
+    <Especie>
+        <nombre>Ramaje tortuoso</nombre>
+        <nombre_comun></nombre_comun>
+        <vegetacion></vegetacion>
+        <altura></altura>
+        <estructura></estructura>
+        <color_prim>Haz verde oscuro, envés verde plateado</color_prim>
+        <resistencia>Heladas medias (hasta -10ºC)</resistencia>
+    </Especie>
+    <Especie>
+        <nombre>Platanus orientalis</nombre>
+        <nombre_comun>Platano</nombre_comun>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 20 a 25 metros</altura>
+        <estructura>Copa ovoidal. Tronco principal recto. Ramaje expandido</estructura>
+        <color_prim>Haz verde medio, enves verde claro</color_prim>
+        <resistencia>Heladas fuertes (hasta -20ºC)</resistencia>
+    </Especie>
+    <Especie>
+        <nombre>Quercus ilex</nombre>
+        <nombre_comun>Encina</nombre_comun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>En torno a 25 metros</altura>
+        <estructura>Copa esférica o elíptica irregular. Tronco principal recto. Ramaje tortuoso</estructura>
+        <color_prim>Plateado en vegetacions jóvenes. En vegetacions antiguas, haz verde oscuro, envés plateado </color_prim>
+        <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+    </Especie>
+</Arboles>

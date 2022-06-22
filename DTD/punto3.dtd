@@ -1,0 +1,6 @@
+<!ELEMENT receta (parrafo, titulo, ingredientes, procedimiento)>
+<!-- la diferencia de este dtd con el anterior es que aqui se agrego el elemento parrafo-->
+<!ELEMENT parrafo (#PCDATA)>  
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT ingredientes (#PCDATA)>
+<!ELEMENT procedimiento (#PCDATA)>

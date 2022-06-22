@@ -1,0 +1,71 @@
+
+<!---Ejemplo 1-->
+
+
+<!---Antes de la correccion -->
+<?xml version="1.0"?> 
+<documento> 
+<p>Mi Primer <destacar importancia=1>documento 
+XML</destacar></p] 
+<p>Comienza con la etiqueta <documento&gt;</p> 
+<p>A continuacion colocamos un elemento sin contenido</p> 
+<imagen fichero="imagen.gif"> 
+</documento> 
+
+
+
+<!--- El atributo de importancia debe ir entre comillas-->
+<!--- Los elementos deben cerrarse con > no con ] -->
+<!--- El elemento documento no se puede repetir -->
+<!--- Falta cerrar el elemento imagen con </imagen> -->
+
+
+<!--- despues de las correcciones  -->
+
+<?xml version="1.0"?>
+<documento> 
+    <p>Mi Primer 
+        <destacar importancia="1">documento XML</destacar>
+    </p> 
+    <p>Comienza con la etiqueta </p> 
+    <p>A continuacion colocamos un elemento sin contenido</p> 
+    <imagen fichero="imagen.gif"> </imagen>
+</documento>
+
+
+
+
+
+
+<!---Ejemplo 2-->
+
+<!-- Antes de las correcciones -->
+
+<?xml version="1.0"?> 
+<libros> 
+<libro id="quijote"> 
+<titulo>El Quijote</titulo> 
+<autor nombre=cervantes nombre=cervantes> 
+<descripcion>Es el m<ejor libro de cervantes.</descripcion> 
+</libro] 
+</Libros>
+
+
+<!--- El valor del atributo nombre debe ir entre comillas y no deben de repetirse-->
+<!--- Los elementos son sencible a mayúsculas y minuscula-->
+<!--- El elemento autor estaba abierto -->
+<!--- La parte de la descripcion tenia < 2 veces y por lo tanto no estaba cerrada correctamente -->
+<!--- Los elementos deben cerrarse con > no con ] -->
+
+
+
+<!--- despues de las correcciones  -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<libros> 
+	<libro id="quijote"> 
+		<titulo>El Quijote</titulo> 
+		<autor nombre="cervantes"> </autor>
+		<descripcion>Es el mejor libro de cervantes.</descripcion> 
+	</libro>
+</libros>

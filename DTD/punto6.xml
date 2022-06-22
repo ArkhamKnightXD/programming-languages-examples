@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- En esta parte es que se debe de colocar el link con el fichero dtd-->
+<!DOCTYPE aviso  SYSTEM "punto6.dtd">
+<aviso>
+</aviso>

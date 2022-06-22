@@ -1,0 +1,9 @@
+<body>
+
+<img id="demo" src="scream.png">
+
+<script>
+document.getElementById("demo").src = "smiley.gif";
+</script>
+
+</body>

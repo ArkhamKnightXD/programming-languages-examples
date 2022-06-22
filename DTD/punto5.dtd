@@ -1,0 +1,6 @@
+<!ELEMENT aviso (titulo?, (parrafo+, grafico)*)>
+<!-- Aqui debo de definir un elemento por cada elemento , como el parrafo y grafico estan
+mas de una vez debo indicarlo en el inicio del dtd-->
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT parrafo (#PCDATA)>
+<!ELEMENT grafico (#PCDATA)>

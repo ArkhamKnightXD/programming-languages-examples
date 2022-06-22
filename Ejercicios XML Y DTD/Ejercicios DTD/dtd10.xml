@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- colocar el enlace con el fichero dtd-->
+<!DOCTYPE aviso  SYSTEM "dtd10.dtd">
+<aviso>
+<titulo>...</titulo>
+<parrafo>...</parrafo>
+<parrafo>...</parrafo>
+<grafico>...</grafico>
+</aviso>
